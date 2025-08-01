@@ -4,6 +4,7 @@
 | ① 安装环境   | Ubuntu 22.04 LTS 虚拟机 / 物理机  | `lsb_release -a` 截图 |
 ![图片描述](images/ubuntu安装完成.png)
 | ② 装 ROS2 | 跟官网 Humble 二进制安装脚本          | `ros2 --version` 截图 |
+![图片描述](images/ros2humble安装.png)
 | ③ 配置开发   | VS Code + ROS 插件 + Git      | 能 `code .` 打开仓库     |
 | ④ 建仓库    | GitHub 新建 `smart-robot-90d` | README 写 “Day 0 ✅”  |
 | 周   | 任务         | 资料 / 命令                                 | 交付物                        |
